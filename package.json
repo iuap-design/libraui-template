@@ -10,10 +10,15 @@
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "@types/react": "^16.9.17",
-    "@types/react-dom": "^16.9.4"
+    "@types/react-dom": "^16.9.4",
+    "bee-button": "^2.0.11",
+    "bee-loading": "^2.0.3",
+    "bee-modal": "^2.1.5",
+    "bee-radio": "^2.0.18",
+    "bee-tag": "0.0.3",
+    "marked": "^0.8.0"
   }
 }
