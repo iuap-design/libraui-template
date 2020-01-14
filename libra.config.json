@@ -4,6 +4,10 @@
     "sourcePath": "./components",
     "type": "ts",
     "lib": [
+        {
+            "key": "highlight.js",
+            "value": "hljs"
+        }
     ],
     "extraImport": {
         "js": "",
