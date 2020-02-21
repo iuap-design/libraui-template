@@ -3,14 +3,15 @@
     "autoTemplate": true,
     "sourcePath": "./components",
     "type": "ts",
-    "lib": [
-        {
-            "key": "highlight.js",
-            "value": "hljs"
-        }
-    ],
+    "lib": [],
+    "plugins": [],
     "extraImport": {
         "js": "",
         "css": ""
+    },
+    "buildImport": {
+        "js": [],
+        "css": [],
+        "export": []
     }
 }
