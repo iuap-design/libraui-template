@@ -1,17 +1,20 @@
 {
     "port": "8090",
     "autoTemplate": true,
-    "sourcePath": "./components",
+    "sourcePath": "components",
+    "libPath": "components",
     "type": "ts",
     "lib": [],
+    "previewUrl": "",
     "plugins": [],
     "extraImport": {
         "js": "",
         "css": ""
     },
     "buildImport": {
-        "js": [],
-        "css": [],
-        "export": []
+      "js":[],
+      "css":[],
+      "export":[]
     }
-}
+  }
+  
